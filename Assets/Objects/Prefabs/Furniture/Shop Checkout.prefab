@@ -299,8 +299,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: cashregister
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9375a016a242b0e4ca094cf4b7781368, type: 3}
+      propertyPath: m_TagString
+      value: Register
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9375a016a242b0e4ca094cf4b7781368, type: 3}
+--- !u!1 &2676969279692942061 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9375a016a242b0e4ca094cf4b7781368, type: 3}
+  m_PrefabInstance: {fileID: 3019637924409251772}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4480372032625908863
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2676969279692942061}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.2664661, y: 2.0729303, z: 2.5872214}
+  m_Center: {x: -0.34233984, y: 0.16256753, z: 0.024714617}
 --- !u!4 &3345420038915715159 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9375a016a242b0e4ca094cf4b7781368, type: 3}

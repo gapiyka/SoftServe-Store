@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2582349288510047731}
   m_Layer: 0
   m_Name: base
-  m_TagString: Untagged
+  m_TagString: Furniture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -92,6 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2582349288511817491}
+  - component: {fileID: 5841394757838480142}
   m_Layer: 0
   m_Name: kitchen_shelf_2
   m_TagString: Furniture
@@ -117,6 +118,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: -90}
+--- !u!65 &5841394757838480142
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582349288511986483}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.31970605, y: 1, z: 0.6393056}
+  m_Center: {x: 0.01982304, y: 0, z: 1.7654747}
 --- !u!1 &2582349288511986485
 GameObject:
   m_ObjectHideFlags: 0
@@ -130,7 +144,7 @@ GameObject:
   - component: {fileID: 2582349288510047735}
   m_Layer: 0
   m_Name: handles
-  m_TagString: Untagged
+  m_TagString: Furniture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
@@ -213,7 +227,7 @@ GameObject:
   - component: {fileID: 2582349288510047729}
   m_Layer: 0
   m_Name: doors
-  m_TagString: Untagged
+  m_TagString: Furniture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647

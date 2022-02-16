@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2075783633875051899}
   - component: {fileID: 2075783633872184667}
   - component: {fileID: 2075783633873151899}
+  - component: {fileID: 6221352450462394116}
   m_Layer: 0
   m_Name: coffee_table_4
   m_TagString: Furniture
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &6221352450462394116
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075783633875417435}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 20
+  m_Height: 40
+  m_Direction: 2
+  m_Center: {x: 0, y: 0.0022152276, z: 15.754998}
