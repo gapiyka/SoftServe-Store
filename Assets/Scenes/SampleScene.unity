@@ -5311,6 +5311,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: kitchen_chair_1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718819, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718821, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718823, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7061724099527945091, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -6903,6 +6915,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: kitchen_chair_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718819, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718821, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718823, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7061724099527945091, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -7328,6 +7352,22 @@ PrefabInstance:
     - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693299, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693301, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693303, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
@@ -8414,6 +8454,18 @@ PrefabInstance:
     - target: {fileID: 7061724099527718819, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718819, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718821, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718823, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7061724099527945091, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
       propertyPath: m_RootOrder
@@ -10537,6 +10589,22 @@ PrefabInstance:
     - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693299, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693301, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693303, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
@@ -16407,6 +16475,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: kitchen_chair_2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693299, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693301, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693303, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
 --- !u!4 &1951336816 stripped
@@ -17699,6 +17783,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: kitchen_table_2
       objectReference: {fileID: 0}
+    - target: {fileID: 5755354566103836937, guid: 8342f9bbb36b314448ab8d278ae4b168, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755354566103836939, guid: 8342f9bbb36b314448ab8d278ae4b168, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5755354566103836943, guid: 8342f9bbb36b314448ab8d278ae4b168, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5755354566104003881, guid: 8342f9bbb36b314448ab8d278ae4b168, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -17925,9 +18021,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: 6785875713100463632, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6785875713100463634, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6785875713100463636, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6785875713100463638, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6785875713100463644, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
       propertyPath: m_Name
       value: modular_kitchen_table_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6785875713100463644, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6785875713100463646, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef39251cf59913a4e81cf05cf22752d2, type: 3}
@@ -17946,6 +18066,30 @@ PrefabInstance:
     - target: {fileID: 7081279273905491345, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
       propertyPath: m_Name
       value: modular_kitchen_table_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081279273905491345, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081279273905491347, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081279273905491349, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081279273905491351, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081279273905491353, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7081279273905491355, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7081279273905852849, guid: 936cb4bc58019b5478e2fc44fa744a4b, type: 3}
       propertyPath: m_RootOrder
@@ -18052,6 +18196,22 @@ PrefabInstance:
     - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693297, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693299, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693301, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8362688053759693303, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e778e2391b7e0844fb25155ebbd080ba, type: 3}
@@ -18238,9 +18398,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1037991653}
     m_Modifications:
+    - target: {fileID: 2283397385714541761, guid: 0f553dacb7c3ff64fb154af75da919d3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2283397385714541763, guid: 0f553dacb7c3ff64fb154af75da919d3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2283397385714541765, guid: 0f553dacb7c3ff64fb154af75da919d3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2283397385714541767, guid: 0f553dacb7c3ff64fb154af75da919d3, type: 3}
       propertyPath: m_Name
       value: kitchen_shelf_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2283397385714541767, guid: 0f553dacb7c3ff64fb154af75da919d3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2283397385714776295, guid: 0f553dacb7c3ff64fb154af75da919d3, type: 3}
       propertyPath: m_RootOrder
@@ -18721,9 +18897,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3665674925677277713, guid: 5f288fa5795047341b23ee108a2d58f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3665674925677277717, guid: 5f288fa5795047341b23ee108a2d58f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3665674925677277719, guid: 5f288fa5795047341b23ee108a2d58f6, type: 3}
       propertyPath: m_Name
       value: kitchen_table_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3665674925677277719, guid: 5f288fa5795047341b23ee108a2d58f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f288fa5795047341b23ee108a2d58f6, type: 3}
@@ -18801,9 +18989,53 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1037991653}
     m_Modifications:
+    - target: {fileID: 7303248838521293728, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293730, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293732, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7303248838521293744, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
       propertyPath: m_Name
       value: modular_kitchen_table_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293744, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293746, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293748, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293750, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293752, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293754, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293756, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7303248838521293758, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7303248838521722768, guid: 1d665835a2375cc448f6aff09fbbfb9b, type: 3}
       propertyPath: m_RootOrder
@@ -19105,9 +19337,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
       objectReference: {fileID: 0}
+    - target: {fileID: 434928293677877136, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 434928293677877138, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
       propertyPath: m_Name
       value: modular_kitchen_table_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 434928293677877138, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434928293677877144, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434928293677877146, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434928293677877148, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434928293677877150, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b17b13ca6aa4ff4cb4cb2a8b8f24ea6, type: 3}
@@ -19188,6 +19444,18 @@ PrefabInstance:
     - target: {fileID: 7061724099527718819, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
       propertyPath: m_Name
       value: kitchen_chair_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718819, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718821, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7061724099527718823, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7061724099527945091, guid: 26b50e51d3d3dc341892c274068c3e0f, type: 3}
       propertyPath: m_RootOrder
@@ -19296,9 +19564,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
       objectReference: {fileID: 0}
+    - target: {fileID: 2582349288511986481, guid: 5b19f1150186d8c4c82e4f8e4ad1e87a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2582349288511986483, guid: 5b19f1150186d8c4c82e4f8e4ad1e87a, type: 3}
       propertyPath: m_Name
       value: kitchen_shelf_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2582349288511986483, guid: 5b19f1150186d8c4c82e4f8e4ad1e87a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2582349288511986485, guid: 5b19f1150186d8c4c82e4f8e4ad1e87a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2582349288511986487, guid: 5b19f1150186d8c4c82e4f8e4ad1e87a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b19f1150186d8c4c82e4f8e4ad1e87a, type: 3}
@@ -19366,9 +19650,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1037991653}
     m_Modifications:
+    - target: {fileID: 7814673278995835497, guid: 43a4a31af445af94a921168398d98fe0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7814673278995835499, guid: 43a4a31af445af94a921168398d98fe0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7814673278995835501, guid: 43a4a31af445af94a921168398d98fe0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7814673278995835503, guid: 43a4a31af445af94a921168398d98fe0, type: 3}
       propertyPath: m_Name
       value: kitchen_shelf_corner_INV
+      objectReference: {fileID: 0}
+    - target: {fileID: 7814673278995835503, guid: 43a4a31af445af94a921168398d98fe0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7814673278996264527, guid: 43a4a31af445af94a921168398d98fe0, type: 3}
       propertyPath: m_RootOrder

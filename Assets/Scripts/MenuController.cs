@@ -53,6 +53,7 @@ public class MenuController : MonoBehaviour
             new ObjectFormat("sofa_2", "Sofa 2", 450, 0),
             new ObjectFormat("sofa_3", "Sofa 3", 400, 0),
             new ObjectFormat("sofa_4", "Sofa 4", 550, 0),
+            new ObjectFormat("corner_sofa", "Corner Sofa", 550, 0),
             new ObjectFormat("coffee_table_1", "Coffee Table 1", 100, 0),
             new ObjectFormat("coffee_table_2", "Coffee Table 2", 110, 0),
             new ObjectFormat("coffee_table_3", "Coffee Table 3", 120, 0),
